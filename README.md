@@ -27,4 +27,4 @@ https://docs.oracle.com/javase/8/docs/api/java/util/NoSuchElementException.html
 
 ## Revision Log
 
-*   (_TODO: fill in your changes to your project here!_)
+*  Full Changelog: https://github.com/Glaven14/loot-generator/commits/newTag
